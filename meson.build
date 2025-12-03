@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
-
+#
 project('systemd', 'c',
         version : files('meson.version'),
         license : 'LGPLv2+',
